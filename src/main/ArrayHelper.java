@@ -1,4 +1,7 @@
 package main;
+/**Divya Vijayan
+ * USFCA
+ */
 
 /** A class that contains several methods for manipulating an array of
  * integers.
@@ -30,7 +33,7 @@ public class ArrayHelper {
      */
     public static int product(int[] arr) {
         //TODO: Replace with your code.
-        return 1;
+        return 2;
     }
 
     /**
