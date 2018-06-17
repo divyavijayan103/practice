@@ -33,7 +33,7 @@ public class ArrayHelper {
      */
     public static int product(int[] arr) {
         //TODO: Replace with your code.
-        return 2;
+        return 1;
     }
 
     /**
